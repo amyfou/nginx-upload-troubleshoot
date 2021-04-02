@@ -1,0 +1,12 @@
+2021/03/18 15:11:22 [warn] 9959#9959: conflicting server name "thecolrc.org" on [::]:443, ignored
+2021/03/18 15:11:22 [warn] 9959#9959: conflicting server name "www.thecolrc.org" on [::]:443, ignored
+2021/03/18 15:11:22 [warn] 9959#9959: conflicting server name "thecolrc.org" on 0.0.0.0:443, ignored
+2021/03/18 15:11:22 [warn] 9959#9959: conflicting server name "www.thecolrc.org" on 0.0.0.0:443, ignored
+2021/03/18 15:11:22 [warn] 9959#9959: conflicting server name "thecolrc.org" on 0.0.0.0:80, ignored
+2021/03/18 15:11:22 [warn] 9959#9959: conflicting server name "www.thecolrc.org" on 0.0.0.0:80, ignored
+2021/03/18 15:11:22 [warn] 9960#9960: conflicting server name "thecolrc.org" on [::]:443, ignored
+2021/03/18 15:11:22 [warn] 9960#9960: conflicting server name "www.thecolrc.org" on [::]:443, ignored
+2021/03/18 15:11:22 [warn] 9960#9960: conflicting server name "thecolrc.org" on 0.0.0.0:443, ignored
+2021/03/18 15:11:22 [warn] 9960#9960: conflicting server name "www.thecolrc.org" on 0.0.0.0:443, ignored
+2021/03/18 15:11:22 [warn] 9960#9960: conflicting server name "thecolrc.org" on 0.0.0.0:80, ignored
+2021/03/18 15:11:22 [warn] 9960#9960: conflicting server name "www.thecolrc.org" on 0.0.0.0:80, ignored
